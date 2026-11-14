@@ -1,0 +1,31 @@
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Generated project files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+.vs/
+.vscode/
+.idea/
+*.code-workspace
+*.pdb
+*.exe
+*.dll
+*.dylib
+*.so
+
+# OS
+.DS_Store
+Thumbs.db
